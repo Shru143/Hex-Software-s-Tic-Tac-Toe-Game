@@ -26,7 +26,7 @@ This is a simple **Tic-Tac-Toe game** built using Python and the Tkinter library
 - **Python 3.x** should be installed on your machine.
 - The game uses the **Tkinter** library, which comes pre-installed with Python.
 
-[game](https://github.com/user-attachments/assets/10516db9-79cb-4a51-a2f5-88c3fd0724a5)
+![game](https://github.com/user-attachments/assets/10516db9-79cb-4a51-a2f5-88c3fd0724a5)
 
 ![shruti win](https://github.com/user-attachments/assets/2bc9203a-f081-4870-8348-c83500a85eb2)
 
