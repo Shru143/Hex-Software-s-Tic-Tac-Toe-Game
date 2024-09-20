@@ -28,6 +28,18 @@ This is a simple **Tic-Tac-Toe game** built using Python and the Tkinter library
 
 ![game](https://github.com/user-attachments/assets/10516db9-79cb-4a51-a2f5-88c3fd0724a5)
 
+# Shruti Win's!!
+
 ![shruti win](https://github.com/user-attachments/assets/2bc9203a-f081-4870-8348-c83500a85eb2)
+
+# It's a tie!!
+
+![image_2024-09-20_131445579](https://github.com/user-attachments/assets/a5ae9e84-ed0b-48e1-ba86-738279670b0e)
+
+# Computer Win's
+
+![image_2024-09-20_132200396](https://github.com/user-attachments/assets/a64ad3aa-118e-4394-8779-1290a10babf8)
+
+
 
 
